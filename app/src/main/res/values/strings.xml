@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleTimer</string>
+    <string name="startLabel">Start Test</string>
+    <string name="resetLabel">Reset</string>
+    <string name="timeLabel">Time: </string>
+
+
+
+</resources>
